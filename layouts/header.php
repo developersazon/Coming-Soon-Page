@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Coming Soon</title>
+    <title>FAST SHIP SUPPLY</title>
     <!-- MDB icon -->
-    <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="img/logo.png" type="image/x-icon" />
     <!-- Font Awesome -->
     <link 
       rel="stylesheet"
@@ -37,29 +37,15 @@
         #heading_text2 {
           font-size: 20px !important;
         }
+
+        .icon_list {
+          margin-bottom: 5px !important;
+        }
+      }
+      #website-information p {
+        padding: 0px;
+        margin: 0px;
       }
     </style>
   </head>
   <body>
-
-    <!-- main navbar start here  -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: #43587D;">
-      <div class="container">
-        <a class="navbar-brand mt-2 mt-lg-0" href="#">
-          <img src="https://blog.sazonmahmud.net/wp-content/uploads/2022/06/rr-e1669829725140.png" height="40" alt="MDB Logo" loading="lazy"/>
-        </a>
-        <ul class="nav ms-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class=" nav-link text-reset" href="#">
-              <i class="fa-brands fa-square-facebook fa-xl" style="color:white"></i>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class=" nav-link text-reset " href="#">
-              <i class="fa-regular fa-envelope fa-xl" style="color:white"></i>
-            </a>
-          </li>
-        </ul>
-        </div>
-     </nav>
-    <!-- Navbar -->
