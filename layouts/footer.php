@@ -1,8 +1,8 @@
     <!-- footer section start here -->
-    <footer class="bg-dark text-center text-white fixed-bottom">
-        <div class="text-right p-2" style="background-color:#43587D;">
-            Powered By:
-            <a class="text-warning" href="https://softbd.com/">Soft Tech Innovation Limited</a>
+    <footer class="text-center text-white fixed-bottom" style="background: rgba(0, 0, 0, 0.3);">
+        <div class="text-right p-2">
+            <span class="text-secondary">Designed By</span>
+            <a class="text-light" href="https://blog.sazonmahmud.net/"><strong style="font-family: 'Itim', Cursive;">Sazon Mahmud</strong></a>
         </div>
     </footer>
     <!-- footer section end here -->
